@@ -107,8 +107,8 @@ header {
     padding: 35px 100px 0;
     -webkit-animation-name: fadein;
             animation-name: fadein;
-    -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    -webkit-animation-duration: 1s;
+            animation-duration: 1s;
     -webkit-animation-delay: 0.5s;
             animation-delay: 0.5s;
     -webkit-animation-fill-mode: forwards;
