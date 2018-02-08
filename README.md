@@ -1,2 +1,2 @@
-# css-project-mountain-travel
-This project created with only html and css. I used flex-box and keyframes...
+# Landing page
+![alt text](http://resim.life/assets/img/mountaintravel.png)
